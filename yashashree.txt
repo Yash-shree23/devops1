@@ -1,2 +1,6 @@
 Hello yashashree here...
 currently I am learning DEVOPS tool github 
+and how to add repo and how to push file inside repo 
+
+5/7/2023
+Today i learn about how to pull file from repository
